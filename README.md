@@ -8,7 +8,7 @@ I test data pipelines by day and build full-stack tools for local businesses by 
 ### 🧑‍💻 About me
 
 - 🏢 4+ years in Data Warehouse & ETL testing — Snowflake, Teradata, DB2, Oracle
-- 🛠️ Running **Thulir Agency** in Erode — payroll systems, stock tools & automation for local businesses
+- 🛠️ Supporting  **Thulir Agency** in Erode — payroll systems, stock tools & automation for local businesses
 - 📍 Bengaluru / Erode, Tamil Nadu 🇮🇳
 - 🔍 Currently exploring: Data Engineering, AI tooling, passive income streams
 - 🏏 Massive CSK fan — don't talk to me during IPL season
