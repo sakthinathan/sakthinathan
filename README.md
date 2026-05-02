@@ -1,35 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sakthinathan</h1>
-<h3 align="center">A passionate Data science Practitioner</h3>
+# Hey, I'm Sakthinathan 👋
+
+**Senior ETL Test Engineer @ Persistent Systems · Builder @ Thulir Agency**  
+I test data pipelines by day and build full-stack tools for local businesses by night.
+
+---
+
+### 🧑‍💻 About me
+
+- 🏢 4+ years in Data Warehouse & ETL testing — Snowflake, Teradata, DB2, Oracle
+- 🛠️ Running **Thulir Agency** in Erode — payroll systems, stock tools & automation for local businesses
+- 📍 Bengaluru / Erode, Tamil Nadu 🇮🇳
+- 🔍 Currently exploring: Data Engineering, AI tooling, passive income streams
+- 🏏 Massive CSK fan — don't talk to me during IPL season
+
+---
+
+### 🔧 Tech stack
+
+**Data & Testing**  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM%20DB2-054ADA?style=flat&logo=ibm&logoColor=white)
+
+**Frontend & Backend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Scripting & Automation**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Thulir Payroll System](https://github.com/sakthinathan/payroll-system)** | Full-stack payroll for local businesses · weekly + monthly flows, Excel export, WhatsApp notifications | React · TypeScript · Supabase |
+| **Stock Thulir** | Browser-based stock calculator · parses SAP Excel exports, applies PKT/CBB conversion, flags discrepancies | Vanilla JS |
+| **GameDay Sync** | Real-time stadium crowd management · SVG map, WebSocket queue updates, AI chatbot — built for a hackathon | Node.js · Socket.IO |
 
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthinathan&label=Profile%20views&color=0e75b6&style=flat" alt="sakthinathan" /> </p>
+### 📊 GitHub stats
 
+![Sakthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthinathan&show_icons=true&locale=en&hide_border=true&theme=default)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=sakthinathan&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthinathan" alt="sakthinathan" /></a> </p>
+---
 
+### 📬 Connect
 
-<p align="left"> <a href="https://twitter.com/imsakthinathan" target="blank"><img src="https://img.shields.io/twitter/follow/imsakthinathan?logo=twitter&style=for-the-badge" alt="imsakthinathan" /></a> </p>
-
-
-- 🌱 I’m currently learning **Data Science**
-- 💞️ I’m looking to collaborate on: **Any data science and machine learning related projects**
-- 📫 How to reach me **sakthinathaneee@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imsakthinathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsakthinathan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakthinathan-n-a71314233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthinathan-n-a71314233" height="30" width="40" /></a>
-<a href="https://kaggle.com/sakthinathan71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakthinathan71" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthinathan&show_icons=true&locale=en&layout=compact" alt="sakthinathan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakthinathan&show_icons=true&locale=en" alt="sakthinathan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakthinathan&" alt="sakthinathan" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakthinathan-n-a71314233)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakthinathaneee@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/imsakthinathan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/sakthinathan71)
